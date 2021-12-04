@@ -1,4 +1,4 @@
-/*Universal selector*/
+/*reset html defaults*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,7 +6,7 @@
 }
 
 
-/*general element selectors*/
+/*general styles*/
 body {
     background-color: #d9dcd6;
 }
@@ -21,7 +21,7 @@ p {
 }
 
 
-/*header section*/
+/*header section styles*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,7 +56,7 @@ header nav ul li {
 }
 
 
-/*hero section here*/
+/*hero section styles*/
 .hero {
     height: 800px;
     width: 100%;
@@ -138,7 +138,7 @@ aside {
 }   
 
 
-/*footer section */
+/*footer section styles*/
 footer {
     padding: 30px;
     clear: both;
